@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Data Analyst with expertise in transforming complex datasets into actionable insights. With a strong foundation in Excel, SQL, and Power BI, I specialize in creating comprehensive analytical solutions that drive business decisions. My approach combines technical proficiency with creative problem-solving to deliver impactful data visualisations and reports.
+I'm a passionate Data Analyst with expertise in transforming complex datasets into actionable insights. With a strong foundation in Excel, SQL, Python and Power BI, I specialize in creating comprehensive analytical solutions that drive business decisions. My approach combines technical proficiency with creative problem-solving to deliver impactful data visualisations and reports.
 
 
 ## 🌐 Socials:
